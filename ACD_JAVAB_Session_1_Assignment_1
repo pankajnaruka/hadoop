@@ -1,0 +1,16 @@
+
+public class helloworld {
+
+	public static void main(String[] args) {
+		int i=8;
+		int j=5;
+		float k;
+		k=j+i;
+		System.out.println(k);
+		System.out.println(i);
+		
+	}
+	
+	}
+	
+	
